@@ -1,0 +1,9 @@
+scikit-learn
+numpy
+jupyter
+pandas
+mlflow
+cassandra-driver
+PyYaml
+tqdm
+-e .

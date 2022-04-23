@@ -1,0 +1,6 @@
+data:
+  source_url: "https://archive.ics.uci.edu/ml/machine-learning-databases/00459/avila.zip"
+  local_dir: data
+  data_file: avila.zip
+  unzip_data_dir: data
+  bad_data_dir: bad_data
